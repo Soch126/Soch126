@@ -18,3 +18,10 @@ Progresser chaque jour, un commit à la fois.
 ---
 
 *Je ne sais pas encore tout faire, mais j'essaie.*
+
+---
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![Soch126's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soch126&show_icons=true&hide_title=true)
+</details>
