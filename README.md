@@ -47,6 +47,14 @@ Je construis des projets avec l'IA Mistral et j'apprends chaque jour.
 
 ---
 
+### 🔗 Contributions
+
+| Projet | PR |
+|--------|:---:|
+| [mistral-vibe](https://github.com/mistralai/mistral-vibe) | [#827](https://github.com/mistralai/mistral-vibe/pull/827) |
+
+---
+
 ### 📊 GitHub
 
 <p align="center">
