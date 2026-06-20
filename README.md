@@ -4,10 +4,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=D4A853&center=true&vCenter=true&width=435&lines=D%C3%A9butant+mais+motiv%C3%A9;HTML+%26+CSS+%26+JS;Mistral+AI+%2F+OpenCode;Jamais+sans+mon+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👋 Salut, moi c'est Soch !
