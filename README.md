@@ -13,6 +13,7 @@ Je débute dans le code et j'apprends pas à pas.
 Progresser chaque jour, un commit à la fois.
 
 ### 📦 Projets
+- [Mistral Chef](https://github.com/Soch126/mistral-chef) — générateur de recettes avec l'IA Mistral
 - [VisiBoxe](https://github.com/Soch126/VisiBoxe) — mon premier vrai projet
 
 ---
